@@ -58,9 +58,6 @@ function addWord(req, res) {
         res.send(reply);
 
     }
-
-
-
 }
 
 function searchWords(req, res) {
